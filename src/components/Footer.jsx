@@ -12,7 +12,7 @@ const Footer = () => {
             industry. Lorem Ipsum has been the industry's standard dummy text.
           </p>
         </div>
-        <div></div>
+        <div className="text-white">abc</div>
         <div></div>
       </div>
       {/*  */}
